@@ -27,7 +27,7 @@ class Screen:
 def load_dialog_data(lang):
     #with open(os.path.join(sys.path[0], "covid19-dialog.JSON"), "r") as f:
     #with open('.\covid19-dialog.json') as f:
-    with open(f'lang_data/dialog_{lang}.JSON') as json_file: #covid19-dialog.JSON
+    with open(f'lang_data/dialog_{lang}.json') as json_file: #covid19-dialog.JSON
         data = json.load(json_file)
     return data 
 
