@@ -25,4 +25,4 @@ Clone this repo to your local machine using `git clone https://github.com/rajatg
 3. Run the python file `python covid19-checker.py`
 
 ## Demo
-![](covid19-check-demo.gif)
+Video Link: https://www.youtube.com/watch?v=6plPg48lCAM
