@@ -17,7 +17,7 @@ Migrate the functionality and deploy it to ChatBot using Flask.
 
 ## Installation
 ### Clone
-Clone this repo to your local machine using `git clone https://github.com/rajatguptakgp/covid19hackathon_code19india.git`
+Clone this repo to your local machine using `git clone https://github.com/rajatguptakgp/symptomchecker_covid19hackathon.git`
 
 ## Usage
 1. Open up your Command Prompt (You can type 'cmd' in your windows search bar)
