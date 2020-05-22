@@ -22,9 +22,10 @@ Clone this repo to your local machine using `git clone https://github.com/rajatg
 ## Requirements
 Since the program makes use of GeoPy and Googletrans, it is necessary to install them.<br /> 
 Run the command `pip install -r requirements.txt` after making the covid19-checker folder working directory.
+Since the program involves usage of fonts which are not available in command line, it requires an IPython interface.
 
 ## Usage
-1. Open up IPython Kernel (in Jupyter Notebook or otherwise)
+1. Open an IPython Kernel (in Jupyter Notebook or otherwise)
 2. Make the working directory to covid19-checker folder `cd <your path>/symptomchecker_covid19hackathon`<br />
 3. Fulfill all requirements by running `pip install -r requirements.txt`
 3. Run the python file `python covid19-checker.py`
