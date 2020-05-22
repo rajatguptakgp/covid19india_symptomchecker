@@ -1,9 +1,9 @@
-# covid19hackathon_code19india
+# COVID-19 India Symptom Checker
 Command Line Interface (CLi) chatbot prototype for assistance against COVID-19 pandemic
 
 ***
 ## Overview
-This project is an experimental simulation of chatbot that works as COVID-19 screening tool which can help user understand what to do next about COVID-19. This is a part of #CODE19INDIA - Hackathon against COVID19.
+This project is an experimental simulation of chatbot that works as COVID-19 screening tool which can help user understand what to do next about COVID-19. 
 
 
 ## Disclaimer 
