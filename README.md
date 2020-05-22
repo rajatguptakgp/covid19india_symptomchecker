@@ -28,7 +28,7 @@ IMPORTANT:  The program involves usage of fonts which are not available in comma
 ## Usage
 1. Open an IPython Kernel (in Jupyter Notebook or otherwise)
 2. Make the working directory to covid19-checker folder `cd <your path>/symptomchecker_covid19hackathon`<br />
-3. Fulfill all requirements by running `pip install -r requirements.txt`
+3. Fulfil all requirements by running `pip install -r requirements.txt`
 3. Run the python file using the command `run covid19-checker.py`
 
 ## Demo
