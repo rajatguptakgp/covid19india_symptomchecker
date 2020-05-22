@@ -19,9 +19,12 @@ Migrate the functionality and deploy it to ChatBot using Flask.
 ### Clone
 Clone this repo to your local machine using `git clone https://github.com/rajatguptakgp/symptomchecker_covid19hackathon.git`
 
+## Requirements
+Since the program makes use of GeoPy and Googletrans, it is necessary to install them. Run the command `pip install -r requirements.txt`
 ## Usage
-1. Open up your Command Prompt (You can type 'cmd' in your windows search bar)
-2. Make the working directory to covid19-checker folder `cd <your path>/covid19-checker`<br />
+1. Open up IPython Kernel (in Jupyter Notebook or otherwise)
+2. Make the working directory to covid19-checker folder `cd <your path>/symptomchecker_covid19hackathon`<br />
+3. Fulfill all requirements by running `pip install -r requirements.txt`
 3. Run the python file `python covid19-checker.py`
 
 ## Demo
