@@ -31,7 +31,7 @@ IMPORTANT:  The program involves usage of fonts which are not available in comma
 
 ## Usage
 ### On Google Colab:
-  1. Run `covid19-checker.ipynb` in Google Colab. 
+  1. Run `covid19-checker.ipynb` on Google Colab. The IPython notebook is made available to open there.
   
   However, the application will not be able to run in user's regional language as his/her IP address cannot be tracked. The default language of the application is English.
 
