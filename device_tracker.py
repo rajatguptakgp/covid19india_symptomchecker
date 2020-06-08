@@ -30,7 +30,7 @@ def find_lang_id(loc_text):
 
     lang_map=pd.DataFrame()
     lang_map['regions']=df['state'].values
-    lang_map['language']=df['language'].values]
+    lang_map['language']=df['language'].values
 
     lang='english'
     lang_id='en'
