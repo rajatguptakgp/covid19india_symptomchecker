@@ -1,6 +1,6 @@
 {
 	"1":{		
-		"dialog": "Hi there, I'm FauciBot!\nWelcome to COVID-19 Checker. \nIf you are experiencing life-threatening symptoms, call 911 immediately! \n\n== Disclaimer ==\nThis tool is not intended to be a substitute for professional medical advice, diagnosis or treatment.\nBy using this tool, you attest that you are at least 18 years old and agree to related Terms and Conditions of Use and Privacy Policy. \nNext, you'll see a series of Yes/No questions designed to evaluate your condition and provide guidance. \nLet's get started.\n\nFauciBot: Are you 18 or older? ",
+		"dialog": "Hi there, I'm FauciBot!\nWelcome to COVID-19 Checker. \nIf you are experiencing life-threatening symptoms, call 112 immediately! \n\n== Disclaimer ==\nThis tool is not intended to be a substitute for professional medical advice, diagnosis or treatment.\nBy using this tool, you attest that you are at least 18 years old and agree to related Terms and Conditions of Use and Privacy Policy. \nNext, you'll see a series of Yes/No questions designed to evaluate your condition and provide guidance. \nLet's get started.\n\nFauciBot: Are you 18 or older? ",
 		"type": "Question",
 		"yes_injection": "FauciBot: Got it.",
 		"no_injection": "FauciBot: Sorry!",
@@ -48,7 +48,7 @@
 	},
 	
 	"7": {
-	"dialog": "Based on your responses, it seems like your situation is urgent. \nYou should go to the nearest Emergency Room. If you cannot safely get there on your own, call 911. \nIMPORTANT: You should call ahead to make sure the ER can prepare for your arrival. \nBe sure to tell them that you were potentially exposed to the coronavirus and you also have severe difficulty breathing.",
+	"dialog": "Based on your responses, it seems like your situation is urgent. \nYou should go to the nearest Emergency Room. If you cannot safely get there on your own, call 112. \nIMPORTANT: You should call ahead to make sure the ER can prepare for your arrival. \nBe sure to tell them that you were potentially exposed to the coronavirus and you also have severe difficulty breathing.",
 	"type": "Transfer",
 	"yes_injection": "",
 	"no_injection": "",
