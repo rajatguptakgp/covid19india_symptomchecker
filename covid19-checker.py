@@ -9,7 +9,7 @@ from IPython.display import display
 translator = Translator()
 
 os.mkdir('testing_sites')
-df=pd.read_csv('testing_sites.csv')
+df=pd.read_csv('data/ICMRTestingLabs.csv')
 States=df['State'].values
 
 def testing_sites_translator(df,df_lang,lang_id):
