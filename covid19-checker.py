@@ -34,7 +34,6 @@ def testing_sites_translator(df,df_lang,lang_id):
 
 def translate_data(lang):
     df=pd.read_csv('data/ICMRTestingLabs.csv')
-    df=df[:25]
     lang_id=list(googletrans.LANGUAGES.keys())[list(googletrans.LANGUAGES.values()).index(lang)]
     vars()[f'data_{lang}']=pd.DataFrame()
     vars()[f'data_{lang}']=testing_sites_translator(df,vars()[f'data_{lang}'],lang_id)
