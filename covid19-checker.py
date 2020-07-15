@@ -10,7 +10,7 @@ translator = Translator()
 
 os.mkdir('testing_sites')
 df=pd.read_csv('data/ICMRTestingLabs.csv')
-States=df['State'].values
+States=df['state'].values
 
 def testing_sites_translator(df,df_lang,lang_id):
     df_lang=df.copy()
